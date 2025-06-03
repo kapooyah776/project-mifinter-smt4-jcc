@@ -1,8 +1,0 @@
-[2025-02-03 06:48:00] production.ERROR: Maximum execution time of 30 seconds exceeded {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Maximum execution time of 30 seconds exceeded at C:\\xampp\\htdocs\\jcc\\apt\\vendor\\kkomelin\\laravel-translatable-string-exporter\\src\\Providers\\ExporterServiceProvider.php:9)
-[stacktrace]
-#0 {main}
-"} 
-[2025-02-03 06:48:02] production.ERROR: Maximum execution time of 30 seconds exceeded {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Maximum execution time of 30 seconds exceeded at C:\\xampp\\htdocs\\jcc\\apt\\vendor\\facade\\ignition\\src\\Http\\Controllers\\ShareReportController.php:9)
-[stacktrace]
-#0 {main}
-"} 
